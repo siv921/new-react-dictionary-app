@@ -3,7 +3,10 @@
 }
 
 .App-header {
-  font-size: 30px;
+  font-size: 50px;
   color: black;
 }
 
+footer {
+  font-size: 15px;
+}
