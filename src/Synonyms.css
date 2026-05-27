@@ -2,3 +2,12 @@
     padding-bottom: 40px;
     border-bottom: 1px solid;
 }
+
+.Synonyms li {
+    padding: 20px 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+.SynonymStyle {
+    display: inline;
+}

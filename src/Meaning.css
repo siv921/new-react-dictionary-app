@@ -1,0 +1,14 @@
+.Meaning h3 {
+    font-size: 25px;
+    font-style: italic;
+}
+
+.Meaning .Definition {
+    font-size: 20px;
+    padding-left: 30px;
+    opacity: 1;
+}
+
+.Meaning small {
+    color: #70757a;
+}
