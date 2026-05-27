@@ -2,8 +2,9 @@
 export default function Meaning(props){
   
     return( <div className="Meaning">
-     <h3>{props.meaning.partOfSpeech}</h3>
-     <p>{props.meaning.definition}</p>
-     <p>{props.meaning.example}</p>
-    </div>);
+                <h3>{props.meaning.partOfSpeech}</h3>
+                <p>{props.meaning.definition} <br />
+                 <em>{props.meaning.example}</em></p>
+                <p><b>Similar:</b> {props.meaning.synonyms}</p>
+           </div>);
 }
