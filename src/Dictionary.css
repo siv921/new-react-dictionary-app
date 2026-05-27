@@ -1,4 +1,8 @@
 .Dictionary {
-    background: pink;
-    padding: 80px;
+ padding: 15px 0;
+ margin-bottom: 30px;
+}
+
+.Dictionary form {
+    padding-bottom: 20px;
 }

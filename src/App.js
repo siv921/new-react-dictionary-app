@@ -4,9 +4,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App container">
+    <div className="App container-md">
       <header className="App-header">
-      Dictionary App
+      Dictionary
       </header>
       <main>
         <Dictionary />
