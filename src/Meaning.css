@@ -1,6 +1,7 @@
 .Meaning h3 {
     font-size: 25px;
     font-style: italic;
+    padding-top: 30px;
 }
 
 .Meaning .Definition {
